@@ -1,0 +1,34 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+
+
+/* home-section */
+#home{
+    height: 280px;
+    
+}
+#home::before{
+    height: 400px;
+}
+
+/* services-section */
+#services{
+    flex-direction: column;
+}
+#sercices .box{
+
+}
+
+
+
+/* client-section */
+#clients{
+    overflow: hidden;
+}
+
+
+
+/* contactus-section */
+
